@@ -1,8 +1,8 @@
-# CoreStack SaaS Platform
+# 🦾 CoreStack SaaS Platform
 
 Production-ready SaaS backend built with Node.js, TypeScript and Prisma.
 
-## Features
+## 👾 Features
 - JWT Authentication
 - User system
 - Subscription system (SaaS logic)
@@ -11,7 +11,7 @@ Production-ready SaaS backend built with Node.js, TypeScript and Prisma.
 - REST API
 - Ready for Stripe integration
 
-## Tech Stack
+## 🧠 Tech Stack
 - Node.js
 - Express
 - TypeScript
