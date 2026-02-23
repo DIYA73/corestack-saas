@@ -7,8 +7,8 @@ Built as a complete modern SaaS architecture for portfolio & real-world deployme
 ---
 
 # 🌍 Live Demo (after deploy)
-Frontend: https://corestack-saas-ehlv.vercel.app
-Backend API: https://corestack-saas-1.onrender.com
+Frontend:https://corestack-saas-ehlv.vercel.app
+Backend:https://corestack-saas-1.onrender.com
 
 Demo login:
 admin@test.com  
