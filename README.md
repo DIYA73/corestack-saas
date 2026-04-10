@@ -651,7 +651,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Documentation**: [Coming Soon]
 - **Issues**: [GitHub Issues](https://github.com/DIYA73/corestack-saas/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/DIYA73/corestack-saas/discussions)
-- **Email**: [Your Email]
+- **Email**: [diyaismahil7@gmail.com]
 
 ---
 
