@@ -663,3 +663,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Made with ❤️ using Next.js, TypeScript, and modern web technologies**
+## Contributors
+- DIYA73
