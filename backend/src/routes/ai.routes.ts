@@ -5,6 +5,7 @@ import { requirePro } from "../middleware/plan.middleware";
 
 const router = Router();
 
+
 router.post("/chat", protect, requirePro, chatAI);
 
 export default router;
